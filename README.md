@@ -1,4 +1,4 @@
-# Sisitema de Cadastro de Empresa e Funcionário
+# Sistema de Cadastro de Empresa e Funcionário
 
 # Tecnologias
 -Desenvolvido em C++ com conceitos de Orientação objeto
