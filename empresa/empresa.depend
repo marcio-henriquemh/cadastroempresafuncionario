@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1609615975 source:/home/marcio/Linguagem_C/Projeto_3/empresa/classe/Empresa.cpp
+	"Empresa.h"
+	<string>
+
+1609615799 /home/marcio/Linguagem_C/Projeto_3/empresa/classe/Empresa.h
+	<string>
+
+1609615106 source:/home/marcio/Linguagem_C/Projeto_3/empresa/classe/Funcionario.cpp
+	"Funcionario.h"
+	<string>
+
+1609615355 /home/marcio/Linguagem_C/Projeto_3/empresa/classe/Funcionario.h
+	<string>
+
+1609615943 source:/home/marcio/Linguagem_C/Projeto_3/empresa/main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<Funcionario.h>
+	<Empresa.h>
+

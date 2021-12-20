@@ -1,0 +1,119 @@
+// criando classe
+class Funcionario{
+// criando atributos e seus objetos
+private:
+    string nome;
+    double salario;
+    string admissao;
+
+
+public:
+    // metodos para acesso aos private
+        void setNome(string nome){
+
+        this->nome= nome;
+
+        }
+
+        string getNome(){
+            return nome;
+
+        }
+
+//================ metodos para acessar o private salario
+        void setSalario(double salario){
+
+                if(salario<1500){
+
+                    this->salario=salario;
+
+                }else{
+
+                    salario=1500;
+
+                    }
+                    }
+
+        double getSalario(){
+            return salario;
+
+
+            }
+
+
+//===============================================================================================
+
+        void setAdm(string admissao){
+
+            this->admissao=admissao;
+            }
+
+
+        string getAdm(){
+
+            return admissao;
+
+
+            }
+
+
+
+};
+
+
+// Criando Classe empresa
+
+class Empresa{
+// criando objetos e atributos
+private:
+    string nomees;
+    string cnpj;
+
+
+public:
+//===================== metodos de acesso
+
+    void setCnpj( string cnpj){
+
+        this->cnpj=cnpj;
+
+
+
+    }
+
+
+    string getCnpj(){
+        return cnpj;
+
+
+
+
+    }
+
+
+    void setNomeem( string nomees){
+
+        this->nomees=nomees;
+
+    }
+
+    string getNomeem(){
+
+    return nomees;
+
+
+
+    }
+
+
+
+};
+
+
+
+
+
+
+
+
+
