@@ -3,4 +3,8 @@
 # Tecnologias
 -Desenvolvido em C++ com conceitos de Orientação objeto
 
--Ide Visual Studio Code
+  documentação do c++: https://www.cplusplus.com/
+
+-IDE Visual Studio Code
+
+Link do Visual Studio Code:https://code.visualstudio.com/
